@@ -2,7 +2,7 @@ import { useState } from 'react'
 import './App.css'
 
 function App() {
-  const [usuario, setUsuario] = useState("")
+  // const [usuario, setUsuario] = useState("")
 
   return (
     <>
